@@ -1,6 +1,6 @@
 ---
 __Advertisement__
-:smile:
+
 - __[pica](https://nodeca.github.io/pica/demo/)__ - high quality and fast image
   resize in browser.
 - __[babelfish](https://github.com/nodeca/babelfish/)__ - developer friendly
@@ -25,19 +25,6 @@ ___
 ---
 
 ***
-
-
-## Typographic replacements
-
-Enable typographer option to see result.
-
-(c) (C) (r) (R) (tm) (TM) (p) (P) +-
-
-test.. test... test..... test?..... test!....
-
-!!!!!! ???? ,,  -- ---
-
-"Smartypants, double quotes" and 'single quotes'
 
 
 ## Emphasis
@@ -169,23 +156,9 @@ The killer feature of `markdown-it` is very effective support of
 >
 > Shortcuts (emoticons): :-) :-( 8-) ;)
 
-see [how to change output](https://github.com/markdown-it/markdown-it-emoji#change-output) with twemoji.
 
 
-### [Subscript](https://github.com/markdown-it/markdown-it-sub) / [Superscript](https://github.com/markdown-it/markdown-it-sup)
 
-- 19^th^
-- H~2~O
-
-
-### [\<ins>](https://github.com/markdown-it/markdown-it-ins)
-
-++Inserted text++
-
-
-### [\<mark>](https://github.com/markdown-it/markdown-it-mark)
-
-==Marked text==
 
 
 ### [Footnotes](https://github.com/markdown-it/markdown-it-footnote)
@@ -193,10 +166,6 @@ see [how to change output](https://github.com/markdown-it/markdown-it-emoji#chan
 Footnote 1 link[^first].
 
 Footnote 2 link[^second].
-
-Inline footnote^[Text of inline footnote] definition.
-
-Duplicated footnote reference[^second].
 
 [^first]: Footnote **can have markup**
 
@@ -206,6 +175,9 @@ Duplicated footnote reference[^second].
 
 
 ### [Definition lists](https://github.com/markdown-it/markdown-it-deflist)
+
+!!! warning
+   Figyelmeztetés
 
 Term 1
 
