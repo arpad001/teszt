@@ -3,6 +3,7 @@
 **félkövér**
 ***félkövér, dőlt***
 ~~áthúzás~~
-x^2^  
+----------
+![Valami](./kepek/babu.png)  
 
 ## Első fázis
