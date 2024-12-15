@@ -1,24 +1,21 @@
 ---
-__Advertisement__
+__Hirdetés__
 
-- __[pica](https://nodeca.github.io/pica/demo/)__ - high quality and fast image
-  resize in browser.
-- __[babelfish](https://github.com/nodeca/babelfish/)__ - developer friendly
-  i18n with plurals support and easy syntax.
+- __[Jófogás](https://jofogas.hu/)__ - Magyarország legnagyobb online apróhirdetési oldala.
+- __[HardverApró](https://harverapro.hu/)__ - Itt megtalálod, amit keresel!
 
-You will like those projects!
 
 ---
 
-# h1 Heading 8-)
-## h2 Heading
-### h3 Heading
-#### h4 Heading
-##### h5 Heading
-###### h6 Heading
+# h1 fejezet :smile: 
+## h2 fejezet
+### h3 fejezet
+#### h4 fejezet
+##### h5 fejezet
+###### h6 fejezet
 
 
-## Horizontal Rules
+## Vízszintes vonalak
 
 ___
 
@@ -27,74 +24,72 @@ ___
 ***
 
 
-## Emphasis
+## Hangsúlyozás
 
-**This is bold text**
+**Félkövér**
 
-__This is bold text__
+__Félkövér másként__
 
-*This is italic text*
+*Dőlt*
 
-_This is italic text_
+_Dőlt másként_
 
-~~Strikethrough~~
-
-
-## Blockquotes
+~~Áthúzott~~
 
 
-> Blockquotes can also be nested...
->> ...by using additional greater-than signs right next to each other...
-> > > ...or with spaces between arrows.
+## Blokkok
 
 
-## Lists
-
-Unordered
-
-+ Create a list by starting a line with `+`, `-`, or `*`
-+ Sub-lists are made by indenting 2 spaces:
-  - Marker character change forces new list start:
-    * Ac tristique libero volutpat at
-    + Facilisis in pretium nisl aliquet
-    - Nulla volutpat aliquam velit
-+ Very easy!
-
-Ordered
-
-1. Lorem ipsum dolor sit amet
-2. Consectetur adipiscing elit
-3. Integer molestie lorem at massa
+> Első idézet...
+>> Bágyazott blokk
+> > > További beágyazott blokk
 
 
-1. You can use sequential numbers...
-1. ...or keep all the numbers as `1.`
+## Listák
 
-Start numbering with offset:
+Felsorolás
 
-57. foo
-1. bar
++ Hozzon létre egy listát úgy, hogy egy sort kezd ezzel `+`, `-`, vagy `*`
++ A részlisták 2 szóköz behúzásával készülnek:
+  - A felsorolásjel karakterének megváltoztatása új lista indítását jelenti:
+    * Alma
+      + Piros alma
+    - Narancs
++ További elem
 
+Számozás
 
-## Code
-
-Inline `code`
-
-Indented code
-
-    // Some comments
-    line 1 of code
-    line 2 of code
-    line 3 of code
+1. Hétfő
+2. Kedd
+3. Szerda
 
 
-Block code "fences"
+
+Számozás indítása más kezdettel:
+
+100. Vasárnap
+1. Hétfő
+
+
+## Kód
+
+Soron belül `code`
+
+Behúzott kód
+
+    // Néhány megjegyzés
+    Gyakorlás
+    Gyakorlás
+    Gyakorlás
+
+
+Blokk kód
 
 ```
-Sample text here...
+Egyszerű szöveg...
 ```
 
-Syntax highlighting
+Szintaxis kiemelés
 
 ``` js
 var foo = function (bar) {
@@ -104,114 +99,50 @@ var foo = function (bar) {
 console.log(foo(5));
 ```
 
-## Tables
+## TabTáblázat
 
-| Option | Description |
+| Gyümölcs | Mennyiség |
 | ------ | ----------- |
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default. |
-| ext    | extension to be used for dest files. |
+| alma | 10 kg |
+| körte | 20 kg |
+| banán | 30 kg |
 
-Right aligned columns
+Jobbra igazított táblázat
 
-| Option | Description |
-| ------:| -----------:|
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default. |
-| ext    | extension to be used for dest files. |
-
-
-## Links
-
-[link text](http://dev.nodeca.com)
-
-[link with title](http://nodeca.github.io/pica/demo/ "title text!")
-
-Autoconverted link https://github.com/nodeca/pica (enable linkify to see)
+| Gyümölcs | Mennyiség |
+| ------ | ----------- |
+| alma | 10 kg |
+| körte | 20 kg |
+| banán | 30 kg |
 
 
-## Images
+## Linkek
+
+[Aqua](http://aqua.hu)
+
+[Media Markt](http://mediamarkt.hu/ "MediaMarkt Magyarország")
+
+Automatikus link https://arpadszki.hu
+
+
+## Képek
 
 ![Minion](https://octodex.github.com/images/minion.png)
 ![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
 
-Like links, Images also have a footnote style syntax
 
-![Alt text][id]
+### [Emoji](https://github.com/markdown-it/markdown-it-emoji)
 
-With a reference later in the document defining the URL location:
-
-[id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
+> Jelek: :wink: :cry: :laughing: :yum:
 
 
-## Plugins
+### [Lábjegyzet](https://github.com/markdown-it/markdown-it-footnote)
 
-The killer feature of `markdown-it` is very effective support of
-[syntax plugins](https://www.npmjs.org/browse/keyword/markdown-it-plugin).
+RIP[^first].
 
+OSPF[^second].
 
-### [Emojies](https://github.com/markdown-it/markdown-it-emoji)
+[^first]: **Routing Information Protocol**
 
-> Classic markup: :wink: :cry: :laughing: :yum:
->
-> Shortcuts (emoticons): :-) :-( 8-) ;)
+[^second]: **Open Shortest Path First**
 
-
-
-
-
-
-### [Footnotes](https://github.com/markdown-it/markdown-it-footnote)
-
-Footnote 1 link[^first].
-
-Footnote 2 link[^second].
-
-[^first]: Footnote **can have markup**
-
-    and multiple paragraphs.
-
-[^second]: Footnote text.
-
-
-### [Definition lists](https://github.com/markdown-it/markdown-it-deflist)
-
-!!! warning
-   Figyelmeztetés
-
-Term 1
-
-:   Definition 1
-with lazy continuation.
-
-Term 2 with *inline markup*
-
-:   Definition 2
-
-        { some code, part of Definition 2 }
-
-    Third paragraph of definition 2.
-
-_Compact style:_
-
-Term 1
-  ~ Definition 1
-
-Term 2
-  ~ Definition 2a
-  ~ Definition 2b
-
-
-### [Abbreviations](https://github.com/markdown-it/markdown-it-abbr)
-
-This is HTML abbreviation example.
-
-It converts "HTML", but keep intact partial entries like "xxxHTMLyyy" and so on.
-
-*[HTML]: Hyper Text Markup Language
-
-### [Custom containers](https://github.com/markdown-it/markdown-it-container)
-
-::: warning
-*here be dragons*
-:::
