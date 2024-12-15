@@ -91,12 +91,10 @@ Egyszerű szöveg...
 
 Szintaxis kiemelés
 
-``` js
-var foo = function (bar) {
-  return bar++;
-};
-
-console.log(foo(5));
+``` python
+for i in range(10):
+    print("Hello")
+print("Vége")
 ```
 
 ## TabTáblázat
