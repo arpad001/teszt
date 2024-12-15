@@ -6,4 +6,7 @@
 ----------
 <img src="./kepek/babu.png" width="100px"> 
 ![](./kepek/babu.png){: width="100px"}
+$$
+mi ez \alpha
+$$
 ## Első fázis
