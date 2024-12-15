@@ -4,6 +4,6 @@
 ***félkövér, dőlt***
 ~~áthúzás~~
 ----------
-![Valami](./kepek/babu.png)  
+<img src="./kepek/babu.png" width="100px"> 
 
 ## Első fázis
