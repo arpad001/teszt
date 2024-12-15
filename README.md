@@ -9,5 +9,7 @@
 $$
 mi ez \alpha \beta \gamma
 $$  
-
+::: warning
+Figyelmeztetés
+:::
 ## Első fázis
