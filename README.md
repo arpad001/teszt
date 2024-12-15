@@ -1,4 +1,4 @@
 # Tesztelés
-Elkeztem * valamikor*.
-** félkövér **
+*dőlt*
+**félkövér**
 ## Első fázis
