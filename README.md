@@ -8,5 +8,6 @@
 
 $$
 mi ez \alpha
-$$
+$$  
+[babu](./kepek/babu.png){: width="100px"}
 ## Első fázis
