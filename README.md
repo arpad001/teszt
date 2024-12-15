@@ -4,8 +4,8 @@
 ***félkövér, dőlt***
 ~~áthúzás~~
 ----------
-<img src="./kepek/babu.png" width="100px"> 
-![](./kepek/babu.png){: width="100px"}
+<img src="./kepek/babu.png" width="100px">   
+
 $$
 mi ez \alpha
 $$
