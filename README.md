@@ -7,7 +7,7 @@
 <img src="./kepek/babu.png" width="100px">   
 
 $$
-mi ez \alpha
+mi ez \alpha \beta \gamma
 $$  
 
 ## Első fázis
