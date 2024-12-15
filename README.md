@@ -97,7 +97,7 @@ for i in range(10):
 print("Vége")
 ```
 
-## TabTáblázat
+## Táblázat
 
 | Gyümölcs | Mennyiség |
 | ------ | ----------- |
@@ -108,7 +108,7 @@ print("Vége")
 Jobbra igazított táblázat
 
 | Gyümölcs | Mennyiség |
-| ------ | ----------- |
+| ------: | -----------: |
 | alma | 10 kg |
 | körte | 20 kg |
 | banán | 30 kg |
