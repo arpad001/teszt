@@ -116,11 +116,11 @@ Jobbra igazított táblázat
 
 ## Linkek
 
-[Aqua](http://aqua.hu)
++ [Aqua](http://aqua.hu)
 
-[Media Markt](http://mediamarkt.hu/ "MediaMarkt Magyarország")
++ [Media Markt](http://mediamarkt.hu/ "MediaMarkt Magyarország")
 
-Automatikus link https://arpadszki.hu
++ Automatikus link https://arpadszki.hu
 
 
 ## Képek
