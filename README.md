@@ -135,10 +135,9 @@ Jobbra igazított táblázat
 
 
 ### [Lábjegyzet](https://github.com/markdown-it/markdown-it-footnote)
-
-RIP[^first].
-
-OSPF[^second].
+Forgalomirányító protokollok  
+- RIP[^first].
+- OSPF[^second].
 
 [^first]: **Routing Information Protocol**
 
