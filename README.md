@@ -1,4 +1,7 @@
 # Tesztelés
-*dőlt*
+*dőlt*  
 **félkövér**
+***félkövér, dőlt***
+~~áthúzás~~
+
 ## Első fázis
